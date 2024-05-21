@@ -344,7 +344,7 @@ customReadinessProbe: {}
 ##
 autoscaling:
   enabled: false
-  minReplicas: ""
+  minReplicas: "2"
   maxReplicas: ""
   targetCPU: ""
   targetMemory: ""
